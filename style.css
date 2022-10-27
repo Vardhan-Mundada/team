@@ -151,7 +151,7 @@
 
 @media only screen and (max-width: 480px) {
     .profile-card {
-        margin-left: 10%;
+        margin-left: 5%;
         max-width: 90%;
     }
 
@@ -186,13 +186,18 @@
 
 @media only screen and (min-width: 330px) and (max-width: 370px){
     .profile-card .profile-content .social-link {
-        margin-top: -20px;
+        margin-top: -10px;
+    }
+}
+@media only screen and (min-width: 370px) and (max-width: 420px){
+    .profile-card .profile-content .social-link {
+        margin-top: 40px;
     }
 }
 
 @media only screen and (min-width: 420px) and (max-width: 480px){
     .profile-card .profile-content .social-link {
-        margin-top: 50px;
+        margin-top: 70px;
     }
 }
 
