@@ -153,8 +153,7 @@
     .profile-card {
         margin-left: 5%;
         width: 90%;
-        height: 60vh;
-
+        
     }
 
     .profile-card .profile-content .title {
@@ -193,10 +192,7 @@
 }
 @media only screen and (min-width: 370px) and (max-width: 420px){
     .profile-card .profile-content .social-link {
-        margin-top: 120px;
-    }
-    .profile-card .profile-content .title{
-        margin-top: -70px;
+        margin-top: 40px;
     }
 }
 
